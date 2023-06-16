@@ -26,7 +26,12 @@
                 <tr>
                     <td align="center">⤳ RootMe:</td>
                     <td align="center"><img src="./logo/rootme.png" width=70px height=70px/></td>
-                    <td align="center"><a href="https://www.root-me.org/Wyv3rn-608084"></a></td>
+                    <td align="center"><a href="https://www.root-me.org/Wyv3rn-608084">MY PROFILE</a></td>
+                </tr>
+                <tr>
+                    <td align="center">⤳ Ozint.eu:</td>
+                    <td align="center"><img src="./logo/ozint.png" width=70px height=70px/></td>
+                    <td align="center"><a href="https://ozint.eu/ozinter/8407/">MY PROFILE</a></td>
                 </tr>
                 <tr>
                     <td align="center">⤳ CryptoZombie:</td>
