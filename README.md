@@ -26,7 +26,7 @@
                 <tr>
                     <td align="center">⤳ RootMe:</td>
                     <td align="center"><img src="./logo/rootme.png" width=70px height=70px/></td>
-                    <td align="center"><a href="https://www.root-me.org/Wyv3rn-608084"><img src="./img/rootme.png" width=300px height=120px/></a></td>
+                    <td align="center"><a href="https://www.root-me.org/Wyv3rn-608084"></a></td>
                 </tr>
                 <tr>
                     <td align="center">⤳ CryptoZombie:</td>
