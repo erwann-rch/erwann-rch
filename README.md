@@ -21,7 +21,7 @@
                 <tr>
                     <td align="center">⤳ TryHackMe:</td>
                     <td align="center"><img src="./logo/tryhackme.png" width=70px height=70px/></td>
-                    <td align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/Wyv3rn9.png" alt="TryHackMe"></a></td>
+                    <td align="center"><a href="https://tryhackme.com/p/Wyv3rn9"><img src="https://tryhackme-badges.s3.amazonaws.com/Wyv3rn9.png" alt="TryHackMe"></a></td>
                 </tr>
                 <tr>
                     <td align="center">⤳ RootMe:</td>
