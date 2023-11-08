@@ -13,7 +13,7 @@
 
 ## Tools 🛠
 
-![PyCharm](https://img.shields.io/badge/PyCharm-2021.1-00cc00?logo=pycharm&style=for-the-badge) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-4.0-orange?logo=sublime-text&style=for-the-badge) ![Remix IDE](https://img.shields.io/badge/Remix_IDE-0.10.2-blue?logo=remix&style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/PyCharm-2023.3-00cc00?logo=pycharm&style=for-the-badge) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-2023-007ACC?logo=visual-studio-code&style=for-the-badge) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-4.0-orange?logo=sublime-text&style=for-the-badge) ![Remix IDE](https://img.shields.io/badge/Remix_IDE-0.10.2-blue?logo=remix&style=for-the-badge)
 
 ## Ranks 🌌
 
