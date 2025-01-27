@@ -41,6 +41,6 @@
                 <tr>
                     <td align="center">⤳ Pwn.college:</td>
                     <td align="center"><img src="./logo/pwn.college.png" width=70px height=70px/></td>
-                    <td align="center"></td>
+                    <td align="center"><a href="https://pwn.college/hacker/13569">MY PROFILE</a></td>
                 </tr>
             </table>
